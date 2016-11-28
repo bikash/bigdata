@@ -9,3 +9,4 @@ a list of awesome big data frameworks, applications, etc
 3. [Uber geolocation data collection](https://github.com/deepnarainsingh/RiseInPrice)
 4. [datavricks kafkapipeline](http://brkyvz.github.io/spark-pipeline/#README.html)
 5. [Artmosphere Demo, Kafka (Batch and Real time, Lamda architecture)](https://github.com/keiraqz/artmosphere)
+6. [Bitcoin data ingestion] (https://github.com/ajmssc/bitcoin-inspector)
